@@ -20891,3 +20891,5 @@ ParcaGame/Library/metadata/bd/bd6b28902b749f245984c83888c447d0
 ParcaGame/Library/metadata/bd/bd4df1931f558b04588572f2d8bd877f.info
 *.bin
 ParcaGame/Temp/
+ParcaGame/.vs/
+ParcaGame/Library/
